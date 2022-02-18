@@ -1,0 +1,3 @@
+"ip":"samridh12.aternos.me",
+"port":"22303";
+"name":"SAM"
